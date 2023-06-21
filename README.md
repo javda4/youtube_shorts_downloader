@@ -6,6 +6,9 @@ Download the most viewed youtube shorts of the week into mp4 files!
 
 
 <br>
+## Installing Requirements
+Open a terminal in the youtube_shorts_downloader folder and run the command
+$ pip install -r requirements.txt
 
 ## Establishing API KEY for Youtube
 
