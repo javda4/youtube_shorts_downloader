@@ -12,13 +12,12 @@ Open a terminal in the youtube_shorts_downloader folder and run the command:
 
 ```pip install -r requirements.txt```
 
-
+<p></p>
 
 ## Establishing API KEY for Youtube
 
 Go to the Google Developers Console: [https://console.developers.google.com/](https://console.developers.google.com/)
 <p></p>
-<br>
 
 ### Selecting Account
 You may need to select an account to use to setup your youtube API_KEY by selecting your account agreeing to terms&conditions and click **AGREE AND CONTINUE**
