@@ -5,19 +5,17 @@ Download the most viewed youtube shorts of the week into mp4 files!
 # Establishing API KEY for Youtube
 
 Go to the Google Developers Console: [https://console.developers.google.com/](https://console.developers.google.com/)
-
-
+<br>
 You may need to select an account to use to setup your youtube API_KEY by selecting your account agreeing to terms&conditions and click **AGREE AND CONTINUE**
 
-<img src="src/images/Account_selection.png" width="250">
-
 ![](src/images/Account_selection.png)
-
+<br>
 
 Then click **Select a project** and click **NEW PROJECT**
-![](src/images/Select_a_project.png)
-![](src/images/New_project.png)
-
+<img src="src/images/Select_a_project.png" width="250">
+<br>
+<img src="src/images/New_project.png" width="250">
+<br>
 Give the project a name and click **Create** don't worry about organization
 ![](src/images/Create_project.png)
 
