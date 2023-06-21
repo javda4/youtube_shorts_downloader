@@ -17,12 +17,9 @@ Go to the Google Developers Console: [https://console.developers.google.com/](ht
 You may need to select an account to use to setup your youtube API_KEY by selecting your account agreeing to terms&conditions and click **AGREE AND CONTINUE**
 
 ![](src/images/Account_selection.png)
-<br>
-<p>
+<!-- This is a comment that creates space -->
 
-  
-</p>
-<br>
+<!-- Another comment that adds space -->
 
 Then click **Select a project** and click **NEW PROJECT**
 <img src="src/images/Select_a_project.png" width="250">
