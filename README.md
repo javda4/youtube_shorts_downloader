@@ -20,7 +20,9 @@ You may need to select an account to use to setup your youtube API_KEY by select
 
 
 ### New Project
+
 Then click **Select a project** and click **NEW PROJECT**
+
 <img src="src/images/Select_a_project.png" width="250">
 <br>
 <img src="src/images/New_project.png" width="250">
