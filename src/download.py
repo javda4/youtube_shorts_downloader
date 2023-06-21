@@ -5,7 +5,7 @@ import request
 from googleapiclient.discovery import build
 
 # YouTube Data API credentials
-API_KEY = 'YOUR_API_KEY'
+API_KEY = ''
 
 
 def get_most_viewed_shorts():
@@ -71,3 +71,5 @@ if __name__ == '__main__':
 
     # Download the videos
     download_shorts(video_ids)
+    directory_path = os.getcwd()
+    print(f'Videos are saved in the directory: {directory_path}')
