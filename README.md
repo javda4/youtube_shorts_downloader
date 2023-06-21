@@ -35,7 +35,7 @@ Then click **Select a project** and click **NEW PROJECT**
 <img src="src/images/New_project.png" width="250">
 <br>
 
-#### Name and Create New Project
+### Name and Create New Project
 Give the project a name and click **Create** don't worry about organization
 ![](src/images/Create_project.png)
 
