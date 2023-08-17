@@ -23,7 +23,7 @@ Go to the Google Developers Console: [https://console.developers.google.com/](ht
 ### Selecting Account
 You may need to select an account to use to setup your youtube API_KEY by selecting your account agreeing to terms&conditions and click **AGREE AND CONTINUE**
 
-![](images/Account_selection.png =250x250)
+![](images/Account_selection.png)
 
 
 ### New Project
